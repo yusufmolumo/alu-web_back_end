@@ -1,0 +1,1 @@
+These are scripts for Es6 classes
